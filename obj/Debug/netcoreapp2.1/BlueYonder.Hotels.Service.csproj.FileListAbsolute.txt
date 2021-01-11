@@ -1,0 +1,17 @@
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\appsettings.json
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.deps.json
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.json
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.dev.json
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.csprojAssemblyReference.cache
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfoInputs.cache
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfo.cs
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.csproj.CoreCompileInputs.cache
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cache
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cs
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorTargetAssemblyInfo.cache
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
+C:\20487D\AllFiles\Mod07\DemoFiles\Mod7Demo1Blob\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.genruntimeconfig.cache
