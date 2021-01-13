@@ -1,7 +1,7 @@
 # 20487D_MOD07_DEMO
 Module 7: Implementing data storage in Azure
 
-JOSE VICENTE TEJERO - 11/01/2021
+JOSE VICENTE TEJERO - 13/01/2021
 
 RESUMEN
 20487D_MOD07_DEMO
@@ -14,9 +14,27 @@ RESUMEN
 
 \### Demonstration: Accessing Microsoft Azure Blob Storage from a Microsoft ASP.NET Core Application
 
- 
+ ![image-20210113111809248](image-20210113111809248.png)
+
+
+
+<img src="image-20210113111821018.png" alt="image-20210113111821018" style="zoom:150%;" />
+
+
+
+![image-20210113111842590](image-20210113111842590.png)
+
+
+
+
+
+![image-20210113111854263](image-20210113111854263.png)
+
+
 
 ![image-20210113111914270](image-20210113111914270.png)
+
+
 
 Invocando con el Guid de Voucher: "4ad7ff6b-a70f-4d82-9251-521a43ae8ba1"
 
