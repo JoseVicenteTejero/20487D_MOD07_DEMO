@@ -14,7 +14,9 @@ RESUMEN
 
 \### Demonstration: Accessing Microsoft Azure Blob Storage from a Microsoft ASP.NET Core Application
 
- ![image-20210113111809248](image-20210113111809248.png)
+ ![img](image-20210113111809248.png)
+
+
 
 
 
